@@ -1,0 +1,1 @@
+ Fundamental corporate architecture
